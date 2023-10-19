@@ -1,0 +1,10 @@
+val/airplane_cabin/sun_achsjlaecrlqndlz.jpg
+val/campus/sun_asewwaixkwbhlywn.jpg
+val/conference_room/sun_aatxlublfjchvvzu.jpg
+val/kitchen/sun_adrbkrnduulprdgf.jpg
+val/office/sun_aggvvwfsjezkfwxb.jpg
+val/park/sun_aapqlhldddojcstw.jpg
+val/parking_lot/sun_abadncqnbwinsfdq.jpg
+val/playground/sun_aacihdklmgtjytnz.jpg
+val/street/sun_achobllaytjvxpqu.jpg
+val/field-wild/sun_aahjtwxeiybhoosi.jpg
